@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eventos marketing digital | DIGITAL KAIZEN</title>
+	<atom:link href="/recursos/articulos/eventos-marketing-digital/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing Digital</description>
+	<lastBuildDate>Sun, 01 Nov 2020 10:32:13 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/06/cropped-japan-32x32.png</url>
+	<title>Eventos marketing digital | DIGITAL KAIZEN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>eShow Madrid 2019, IA, Machine Learning y otras cosas bonitas.</title>
+		<link>/articulos/eventos-marketing-digital/eshow-madrid-2019-ia-machine-learning-y-otras-cosas-bonitas/</link>
+					<comments>/articulos/eventos-marketing-digital/eshow-madrid-2019-ia-machine-learning-y-otras-cosas-bonitas/#respond</comments>
+		
+		<dc:creator><![CDATA[Roberto P. Miró]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2020 10:23:59 +0000</pubDate>
+				<category><![CDATA[Eventos marketing digital]]></category>
+		<guid isPermaLink="false">/?p=494</guid>
+
+					<description><![CDATA[<p>La cola es muy variada, trabajadores de TICs, expositores, emprendedores, estudiantes, algo muy común en este tipo de eventos, hay de todo y cada uno tiene unas expectativas o planes al asistir a una feria profesional como esta. Al final llegamos a la puerta y dos chicos no escanean los pases de acceso. En primer &#8230;</p>
+<p class="read-more"> <a class="" href="/articulos/eventos-marketing-digital/eshow-madrid-2019-ia-machine-learning-y-otras-cosas-bonitas/"> <span class="screen-reader-text">eShow Madrid 2019, IA, Machine Learning y otras cosas bonitas.</span> Leer más &#187;</a></p>
+La entrada <a href="/articulos/eventos-marketing-digital/eshow-madrid-2019-ia-machine-learning-y-otras-cosas-bonitas/">eShow Madrid 2019, IA, Machine Learning y otras cosas bonitas.</a> apareció primero en <a href="/">DIGITAL  KAIZEN</a>.]]></description>
+		
+					<wfw:commentRss>/articulos/eventos-marketing-digital/eshow-madrid-2019-ia-machine-learning-y-otras-cosas-bonitas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

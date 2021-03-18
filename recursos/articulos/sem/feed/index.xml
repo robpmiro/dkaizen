@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SEM | DIGITAL KAIZEN</title>
+	<atom:link href="/recursos/articulos/sem/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing Digital</description>
+	<lastBuildDate>Wed, 15 Jan 2020 17:39:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/06/cropped-japan-32x32.png</url>
+	<title>SEM | DIGITAL KAIZEN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Google Ads, los limites de la Geolocalización en tus campañas de Ads.</title>
+		<link>/articulos/sem/google-ads-limites-de-la-geolocalizacion/</link>
+					<comments>/articulos/sem/google-ads-limites-de-la-geolocalizacion/#respond</comments>
+		
+		<dc:creator><![CDATA[Roberto P. Miró]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2019 18:00:05 +0000</pubDate>
+				<category><![CDATA[SEM]]></category>
+		<category><![CDATA[Google Ads]]></category>
+		<category><![CDATA[PPC]]></category>
+		<guid isPermaLink="false">/?p=502</guid>
+
+					<description><![CDATA[<p>A primera vista cuando montamos una campaña de Google Ads parece sencillo indicar en que ubicaciones queremos que aparezcan o no nuestros anuncios. Esto en realidad no es tan sencillo y en muchas ocasiones funciona de manera mas que regular. En que consiste la localización de anuncios Google nos facilita entre las herramientas para configurar &#8230;</p>
+<p class="read-more"> <a class="" href="/articulos/sem/google-ads-limites-de-la-geolocalizacion/"> <span class="screen-reader-text">Google Ads, los limites de la Geolocalización en tus campañas de Ads.</span> Leer más &#187;</a></p>
+La entrada <a href="/articulos/sem/google-ads-limites-de-la-geolocalizacion/">Google Ads, los limites de la Geolocalización en tus campañas de Ads.</a> apareció primero en <a href="/">DIGITAL  KAIZEN</a>.]]></description>
+		
+					<wfw:commentRss>/articulos/sem/google-ads-limites-de-la-geolocalizacion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
